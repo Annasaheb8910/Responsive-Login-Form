@@ -4,7 +4,7 @@
 - Compatile with all mobile devices with a beautiful and pleasant user interface.
   
 ### Live Preview
-[Click to view Liew Preview]
+[Click to view Liew Preview](https://annasaheb8910.github.io/Responsive-Login-Form/)
 
 ### Sample-Images
 
